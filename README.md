@@ -70,7 +70,7 @@ make
 
 ### Run the Program
 ```bash
-./TitanHub.exe
+./TitanHub
 ```
 
 ### Clean Compiled Files
